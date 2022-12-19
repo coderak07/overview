@@ -35,7 +35,7 @@
 
 <table>
   <tr>
-     <td><img src="[https://twitter.com/Dev_AkshayKate](https://drive.google.com/file/d/1OXD07ONKsgkLPTKRmXGb1S6gxhtN-Txq/view?usp=share_link)" alt="akshay-kate" /></td>
+     <td><img src="https://twitter.com/Dev_AkshayKate](https://drive.google.com/file/d/1OXD07ONKsgkLPTKRmXGb1S6gxhtN-Txq/view?usp=share_link" alt="akshay-kate" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash-naikwadi&show_icons=true&theme=dark&locale=en&layout=compact" alt="prakash-naikwadi" /></td>
   </tr>
 </table>
