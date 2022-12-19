@@ -35,8 +35,7 @@
 
 <table>
   <tr>
-    <td><img src="
-   " alt="akshay-kate" /></td>
+   
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash-naikwadi&show_icons=true&theme=dark&locale=en&layout=compact" alt="prakash-naikwadi" /></td>
   </tr>
 </table>
